@@ -108,9 +108,6 @@ Research on integrating traditional numerical weather prediction models with mac
 
 For a complete list of publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=oaA6rLAAAAAJ&hl=en).
 
-**Selected Publications:**
-- [Publications will be listed here as they become available]
-
 ---
 
 ## Academic Background
