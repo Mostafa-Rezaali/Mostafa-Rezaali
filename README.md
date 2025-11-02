@@ -1,16 +1,18 @@
 # Mostafa Rezaali
 
-## PhD Candidate | Department of Geography | University of Florida
+## PhD Candidate | Climate and Earth System Sciences | Department of Geography | University of Florida
 
 ---
 
 ## About
 
-I am a doctoral researcher in the Department of Geography at the University of Florida, specializing in the application of artificial intelligence and machine learning to climate science. My research focuses on understanding, detecting, and predicting heat waves and extreme weather events through the integration of numerical climate models with advanced computational techniques.
+I am a doctoral researcher specializing in climate and earth system sciences at the University of Florida's Department of Geography. My research bridges climate science, earth system modeling, and artificial intelligence to advance our understanding of extreme weather events and climate variability. I focus on developing data-driven approaches to detect, characterize, and predict heat waves and other climate extremes within the broader context of earth system dynamics.
 
-My work addresses critical challenges in climate science by developing data-driven approaches that enhance our capacity to forecast extreme weather events and support climate adaptation strategies. I am particularly interested in coupling traditional climate modeling frameworks with machine learning algorithms to improve prediction accuracy and advance our understanding of climate extremes.
+My work integrates observations from multiple earth system components—atmosphere, hydrosphere, biosphere, and cryosphere—with machine learning techniques to improve extreme weather forecasting and enhance climate adaptation strategies. I am particularly interested in understanding the physical mechanisms driving climate extremes and leveraging both process-based models and AI to advance predictive capabilities.
 
 **Current Position:** PhD Candidate (Entered Fall 2022)  
+**Research Focus:** Climate and Earth System Sciences  
+**Specialization:** Extreme Weather Events and Climate Dynamics  
 **Location:** Gainesville, Florida, USA  
 **Country of Origin:** Iran
 
@@ -18,25 +20,28 @@ My work addresses critical challenges in climate science by developing data-driv
 
 ## Research Interests
 
-**Primary Research Areas:**
-- Heat wave detection, characterization, and prediction
-- Extreme weather event forecasting and analysis
-- Machine learning applications in climate science
-- Integration of numerical climate models with artificial intelligence
-- Earth system science and global environmental change
+**Climate and Earth System Sciences:**
+- Heat wave dynamics and thermodynamic drivers
+- Extreme weather event mechanisms and predictability
+- Climate variability and change across temporal scales
+- Earth system feedbacks and teleconnections
+- Land-atmosphere interactions and climate extremes
+- Climate model evaluation and improvement
 
-**Methodological Focus:**
-- Deep learning for climate pattern recognition
-- Time series analysis of climate data
-- Numerical model-AI coupling techniques
-- Climate data mining and statistical analysis
-- Geospatial data processing and analysis
+**Methodological Approaches:**
+- Machine learning for climate pattern recognition and prediction
+- Statistical analysis of climate extremes
+- Integration of earth system models with data-driven methods
+- Climate reanalysis data processing and interpretation
+- Time series analysis of climate variables
+- Spatiotemporal analysis of climate phenomena
 
-**Applied Research:**
-- Climate change adaptation and resilience
-- Disaster risk reduction
-- Environmental sustainability
-- Climate impact assessment
+**Applied Climate Science:**
+- Climate change impact assessment
+- Climate adaptation and resilience planning
+- Extreme weather risk assessment
+- Climate services and decision support
+- Climate information for sustainable development
 
 ---
 
@@ -46,66 +51,89 @@ My work addresses critical challenges in climate science by developing data-driv
 - Python (Primary)
 - MATLAB (Primary)
 - R
-- Shell scripting
+- Shell scripting (Bash)
+- NCL (NCAR Command Language)
 
-**Machine Learning & Artificial Intelligence:**
+**Climate Science Tools:**
+- Climate Data Formats: netCDF, GRIB, HDF5
+- Climate Data Processing: xarray, netCDF4, CDO (Climate Data Operators), NCO
+- Climate Models: ERA5, CMIP6, MERRA-2, NCEP/NCAR Reanalysis
+- Climate Indices: ENSO, NAO, PDO, heat wave indices, extreme precipitation indices
+- Atmospheric Sciences: Meteorological analysis, synoptic climatology
+- Climate Statistics: Extreme value analysis, trend detection, climate signal analysis
+
+**Machine Learning & AI for Climate:**
 - Deep Learning Frameworks: TensorFlow, PyTorch, Keras
 - Machine Learning Libraries: scikit-learn, XGBoost
-- Model Development: Neural networks, ensemble methods, time series forecasting
-- Model Evaluation: Cross-validation, performance metrics, uncertainty quantification
+- Climate-Specific Applications: 
+  - Extreme event detection and classification
+  - Climate pattern recognition
+  - Downscaling and bias correction
+  - Seasonal to subseasonal forecasting
+- Model Interpretation: Feature importance, sensitivity analysis
 
-**Climate Science & Geospatial Analysis:**
-- Climate Data Formats: netCDF, GRIB, HDF5
-- Climate Data Tools: xarray, netCDF4, Climate Data Operators (CDO), NCO
+**Geospatial and Earth Observation:**
 - Geospatial Libraries: GDAL, Rasterio, GeoPandas, Shapely
+- Remote Sensing: Satellite data processing, land surface parameters
 - Mapping & Visualization: Cartopy, Basemap, Matplotlib
-- Climate Datasets: ERA5, CMIP6, MERRA-2, regional climate models
+- Spatial Analysis: Raster operations, spatial statistics
 
-**Data Science & Analysis:**
-- Data Processing: Pandas, NumPy, Dask (for large datasets)
-- Visualization: Matplotlib, Seaborn, Plotly
-- Statistical Analysis: SciPy, statsmodels
-- High-Performance Computing: Parallel processing, cluster computing
+**Data Science & High-Performance Computing:**
+- Large-Scale Data Processing: Dask, parallel computing
+- Data Analysis: Pandas, NumPy, SciPy, statsmodels
+- Visualization: Matplotlib, Seaborn, Plotly, NCL graphics
+- Statistical Methods: Time series analysis, regression, EOF/PCA analysis
+- HPC: Cluster computing, job scheduling (SLURM), parallel processing
 
 **Development Tools:**
 - Version Control: Git, GitHub
-- Development Environments: Jupyter, VS Code
+- Development Environments: Jupyter, VS Code, Spyder
 - Computing Platforms: Linux/Unix systems, HPC clusters
-- Documentation: Markdown, LaTeX
+- Documentation: Markdown, LaTeX, scientific writing
 
 ---
 
 ## Research Projects
 
-### Heat Wave Detection and Prediction System
-Development of machine learning models for automated detection and forecasting of heat wave events using climate reanalysis datasets. This project integrates multiple data sources and employs deep learning architectures to improve prediction lead times.
+### Heat Wave Dynamics and Predictability
+Investigation of the physical mechanisms driving heat wave formation and persistence, with focus on atmospheric circulation patterns, land-atmosphere feedbacks, and soil moisture-temperature coupling. Development of machine learning models to improve heat wave prediction using climate reanalysis data and earth system model outputs.
 
-**Technologies:** Python, TensorFlow, xarray, ERA5 reanalysis data  
-**Status:** In Development
+**Technologies:** Python, TensorFlow, xarray, ERA5, CMIP6 data  
+**Climate Focus:** Synoptic climatology, land-atmosphere interactions, extreme temperature dynamics  
+**Status:** Active Research
 
-### Extreme Weather Event Classification Framework
-Construction of a comprehensive framework for classifying and characterizing various extreme weather phenomena using supervised and unsupervised learning techniques. The framework processes multi-decadal climate data to identify patterns and trends in extreme events.
+### Extreme Climate Events in a Changing Climate
+Comprehensive analysis of multiple extreme weather phenomena (heat waves, droughts, heavy precipitation, cold spells) using observational data and climate model simulations. Investigation of changes in frequency, intensity, and spatial patterns of extremes under different climate scenarios.
 
-**Technologies:** Python, PyTorch, scikit-learn, climate indices  
-**Status:** In Development
+**Technologies:** Python, PyTorch, scikit-learn, CMIP6 ensemble analysis  
+**Climate Focus:** Climate extremes, climate variability, climate change detection  
+**Status:** Active Research
 
-### Climate Data Processing Pipeline
-Development of an automated, scalable pipeline for acquiring, processing, and analyzing large-scale climate datasets. The pipeline handles petabyte-scale data and performs quality control, preprocessing, and feature extraction for downstream analysis.
+### Earth System Model-AI Integration
+Development of hybrid modeling approaches that combine process-based earth system models with machine learning algorithms to improve representation of climate extremes. Focus on leveraging physical understanding while enhancing predictive skill through data-driven techniques.
 
-**Technologies:** Python, Dask, xarray, Pandas, HPC infrastructure  
-**Status:** In Development
-
-### Coupled Model-AI System for Weather Extremes
-Research on integrating traditional numerical weather prediction models with machine learning algorithms to enhance extreme weather forecasting capabilities. This hybrid approach leverages the strengths of both physics-based and data-driven methods.
-
-**Technologies:** Python, MATLAB, climate models, neural networks  
+**Technologies:** Python, MATLAB, earth system models, neural networks  
+**Climate Focus:** Model-data fusion, physics-informed machine learning, climate prediction  
 **Status:** Research Phase
+
+### Climate Data Processing and Analysis Framework
+Construction of a comprehensive framework for processing, quality control, and analysis of multi-source climate datasets. Development of tools for calculating climate indices, detecting extremes, and performing climate diagnostics on large-scale climate model ensembles.
+
+**Technologies:** Python, xarray, Dask, CDO, HPC infrastructure  
+**Climate Focus:** Climate data management, extreme indices, ensemble analysis  
+**Status:** In Development
 
 ---
 
 ## Publications
 
 For a complete list of publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=oaA6rLAAAAAJ&hl=en).
+
+**Research Output:**
+- Peer-reviewed journal articles
+- Conference presentations
+- Technical reports
+- Open-source code repositories
 
 ---
 
@@ -114,52 +142,79 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 **PhD in Geography** (In Progress)  
 University of Florida, Gainesville, Florida  
 Entered: Fall 2022  
-Focus: Earth System Science, Sustainability, and Global Environmental Change
+Concentration: Earth System Science, Sustainability, and Global Environmental Change  
+Research Area: Climate Extremes and Earth System Dynamics
+
+**Research Training:**
+- Climate and atmospheric sciences
+- Earth system modeling
+- Statistical climatology
+- Machine learning for environmental sciences
+- Geospatial analysis and remote sensing
 
 ---
 
 ## Professional Affiliations
 
 - Department of Geography, University of Florida
+- Florida Institute for Built Environment Resilience (FIBER)
+- Disasters, Trust, and Social Change Lab
+
+**Professional Memberships:**
+- American Geophysical Union (AGU) [if applicable]
+- American Meteorological Society (AMS) [if applicable]
+
 ---
 
 ## Skills Summary
 
-**Core Competencies:**
+**Climate Science Competencies:**
 - Climate data analysis and interpretation
-- Machine learning model development and deployment
+- Extreme weather event detection and characterization
+- Climate model evaluation and validation
+- Synoptic and dynamic climatology
+- Climate change impact assessment
+- Climate variability and teleconnection analysis
+- Earth system science synthesis
+
+**Technical Skills:**
+- Machine learning for climate applications
 - Statistical analysis and hypothesis testing
 - Scientific programming and software development
-- High-performance computing
+- High-performance computing for climate data
 - Geospatial analysis and remote sensing
-- Data visualization and communication
+- Climate data visualization and communication
+- Reproducible research practices
 
-**Research Skills:**
-- Literature review and synthesis
-- Experimental design
-- Quantitative analysis
+**Research Capabilities:**
+- Scientific literature synthesis
+- Research design and methodology
+- Quantitative climate analysis
 - Model validation and verification
-- Technical writing and documentation
-- Collaborative research
+- Technical and scientific writing
+- Interdisciplinary collaboration
+- Climate communication to diverse audiences
 
 ---
 
 ## Open Source Contributions
 
-I am committed to open science and reproducible research. This GitHub repository hosts code, analysis scripts, and tools related to my research on climate extremes and weather prediction. I welcome collaboration and feedback from the research community.
+I am committed to open climate science and reproducible research. This GitHub repository hosts code, analysis scripts, and tools related to climate extremes research and earth system science applications. I welcome collaboration and feedback from the climate research community.
 
 **Repository Contents:**
-- Research code and analysis scripts
-- Data processing pipelines
-- Visualization tools
-- Tutorial materials
-- Documentation
+- Climate data processing scripts
+- Extreme event detection algorithms
+- Climate analysis and diagnostic tools
+- Visualization tools for climate data
+- Tutorial materials for climate data science
+- Documentation and best practices
 
-**Coming Soon:**
-- Additional research repositories
-- Code from published papers
-- Educational resources
-- Tutorial notebooks
+**Future Additions:**
+- Code accompanying published research
+- Climate model evaluation tools
+- Machine learning models for climate applications
+- Educational resources for climate data analysis
+- Reproducible workflows for climate research
 
 ---
 
@@ -167,14 +222,16 @@ I am committed to open science and reproducible research. This GitHub repository
 
 I am interested in collaborative research in the following areas:
 
-- Climate extremes and their impacts
-- Machine learning applications in Earth sciences
-- Climate model development and evaluation
-- Open-source climate data tools and infrastructure
-- Climate change adaptation and resilience strategies
+- Climate extremes and their physical mechanisms
+- Earth system model development and evaluation
+- Machine learning applications in climate science
+- Climate data science and analysis methods
+- Climate change detection and attribution
+- Climate services and adaptation science
 - Interdisciplinary climate research
+- Open-source climate tools and infrastructure
 
-If you are working on related topics or have potential collaboration opportunities, please feel free to reach out.
+If you are working on related topics in climate and earth system sciences or have potential collaboration opportunities, please feel free to reach out.
 
 ---
 
@@ -198,6 +255,9 @@ If you are working on related topics or have potential collaboration opportuniti
 **Research Group Website:** https://dcp.ufl.edu/fiber/  
 **Personal Website:** [Under construction]
 
+**Research Interests Keywords:**
+Climate extremes, heat waves, extreme weather, climate variability, earth system science, climate dynamics, machine learning, climate modeling, climate change, climate adaptation, statistical climatology, synoptic climatology, climate data science
+
 ---
 
 *Last Updated: November 2025*
@@ -206,8 +266,8 @@ If you are working on related topics or have potential collaboration opportuniti
 
 ## Acknowledgments
 
-I acknowledge the support of the University of Florida Department of Geography and the Florida Institute for Built Environment Resilience (FIBER) in my doctoral research.
+I acknowledge the support of the University of Florida Department of Geography and the Florida Institute for Built Environment Resilience (FIBER) in my doctoral research. I am grateful for access to high-performance computing resources and climate datasets that enable this research.
 
 ---
 
-**Note:** This profile is regularly updated with new projects, publications, and research developments. For the most current information, please refer to my institutional profile or contact me directly.
+**Note:** This profile is regularly updated with new projects, publications, and research developments. For the most current information about my climate and earth system sciences research, please refer to my institutional profile or contact me directly.
