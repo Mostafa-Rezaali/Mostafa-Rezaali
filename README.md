@@ -154,18 +154,6 @@ Research Area: Climate Extremes and Earth System Dynamics
 
 ---
 
-## Professional Affiliations
-
-- Department of Geography, University of Florida
-- Florida Institute for Built Environment Resilience (FIBER)
-- Disasters, Trust, and Social Change Lab
-
-**Professional Memberships:**
-- American Geophysical Union (AGU) [if applicable]
-- American Meteorological Society (AMS) [if applicable]
-
----
-
 ## Skills Summary
 
 **Climate Science Competencies:**
@@ -218,23 +206,6 @@ I am committed to open climate science and reproducible research. This GitHub re
 
 ---
 
-## Collaboration Opportunities
-
-I am interested in collaborative research in the following areas:
-
-- Climate extremes and their physical mechanisms
-- Earth system model development and evaluation
-- Machine learning applications in climate science
-- Climate data science and analysis methods
-- Climate change detection and attribution
-- Climate services and adaptation science
-- Interdisciplinary climate research
-- Open-source climate tools and infrastructure
-
-If you are working on related topics in climate and earth system sciences or have potential collaboration opportunities, please feel free to reach out.
-
----
-
 ## Contact Information
 
 **Email:** mostafarezaali@ufl.edu  
@@ -250,9 +221,7 @@ If you are working on related topics in climate and earth system sciences or hav
 
 ## Additional Information
 
-**Office Hours:** By appointment  
 **University Profile:** https://geog.ufl.edu/directory/mostafa-rezaali/  
-**Research Group Website:** https://dcp.ufl.edu/fiber/  
 **Personal Website:** [Under construction]
 
 **Research Interests Keywords:**
