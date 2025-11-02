@@ -233,10 +233,4 @@ Climate extremes, heat waves, extreme weather, climate variability, earth system
 
 ---
 
-## Acknowledgments
-
-I acknowledge the support of the University of Florida Department of Geography and the Florida Institute for Built Environment Resilience (FIBER) in my doctoral research. I am grateful for access to high-performance computing resources and climate datasets that enable this research.
-
----
-
 **Note:** This profile is regularly updated with new projects, publications, and research developments. For the most current information about my climate and earth system sciences research, please refer to my institutional profile or contact me directly.
