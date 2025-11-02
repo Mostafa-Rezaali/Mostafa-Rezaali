@@ -117,9 +117,6 @@ University of Florida, Gainesville, Florida
 Entered: Fall 2022  
 Focus: Earth System Science, Sustainability, and Global Environmental Change
 
-**Previous Education:**
-- [To be added]
-
 ---
 
 ## Professional Affiliations
