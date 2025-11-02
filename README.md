@@ -11,7 +11,6 @@ I am a doctoral researcher in the Department of Geography at the University of F
 My work addresses critical challenges in climate science by developing data-driven approaches that enhance our capacity to forecast extreme weather events and support climate adaptation strategies. I am particularly interested in coupling traditional climate modeling frameworks with machine learning algorithms to improve prediction accuracy and advance our understanding of climate extremes.
 
 **Current Position:** PhD Candidate (Entered Fall 2022)  
-**Research Group:** Florida Institute for Built Environment Resilience (FIBER)  
 **Location:** Gainesville, Florida, USA  
 **Country of Origin:** Iran
 
@@ -121,10 +120,7 @@ Focus: Earth System Science, Sustainability, and Global Environmental Change
 
 ## Professional Affiliations
 
-- Florida Institute for Built Environment Resilience (FIBER)
 - Department of Geography, University of Florida
-- [Additional affiliations to be added]
-
 ---
 
 ## Skills Summary
