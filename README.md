@@ -13,8 +13,7 @@ My work integrates observations from multiple earth system components—atmosphe
 **Current Position:** PhD Candidate (Entered Fall 2022)  
 **Research Focus:** Climate and Earth System Sciences  
 **Specialization:** Extreme Weather Events and Climate Dynamics  
-**Location:** Gainesville, Florida, USA  
-**Country of Origin:** Iran
+**Location:** Gainesville, Florida, USA
 
 ---
 
