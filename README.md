@@ -47,15 +47,15 @@ My work integrates observations from multiple earth system components—atmosphe
 ## Technical Expertise
 
 **Programming Languages:**
-- Python (Primary)
 - MATLAB (Primary)
+- Python (Primary)
 - R
 - Shell scripting (Bash)
 - NCL (NCAR Command Language)
 
 **Climate Science Tools:**
 - Climate Data Formats: netCDF, GRIB, HDF5
-- Climate Data Processing: xarray, netCDF4, CDO (Climate Data Operators), NCO
+- Climate Data Processing: xarray, netCDF4
 - Climate Models: ERA5, CMIP6, MERRA-2, NCEP/NCAR Reanalysis
 - Climate Indices: ENSO, NAO, PDO, heat wave indices, extreme precipitation indices
 - Atmospheric Sciences: Meteorological analysis, synoptic climatology
