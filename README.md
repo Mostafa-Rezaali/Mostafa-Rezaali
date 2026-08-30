@@ -216,15 +216,6 @@ I am committed to open climate science and reproducible research. This GitHub re
 **LinkedIn:** www.linkedin.com/in/mostafa-rezaali-3a522a10a  
 **ORCID:** https://orcid.org/0000-0001-6587-1569  
 
----
-
-## Additional Information
-
-**University Profile:** https://geog.ufl.edu/directory/mostafa-rezaali/  
-**Personal Website:** [Under construction]
-
-**Research Interests Keywords:**
-Climate extremes, heat waves, extreme weather, climate variability, earth system science, climate dynamics, machine learning, climate modeling, climate change, climate adaptation, statistical climatology, synoptic climatology, climate data science
 
 ---
 
