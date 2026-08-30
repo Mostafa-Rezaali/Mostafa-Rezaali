@@ -216,11 +216,3 @@ I am committed to open climate science and reproducible research. This GitHub re
 **LinkedIn:** www.linkedin.com/in/mostafa-rezaali-3a522a10a  
 **ORCID:** https://orcid.org/0000-0001-6587-1569  
 
-
----
-
-*Last Updated: November 2025*
-
----
-
-**Note:** This profile is regularly updated with new projects, publications, and research developments. For the most current information about my climate and earth system sciences research, please refer to my institutional profile or contact me directly.
