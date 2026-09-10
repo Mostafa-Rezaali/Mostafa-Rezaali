@@ -1,5 +1,5 @@
 # Mostafa Rezaali
-**PhD Candidate | Climate & Earth System Sciences**  
+**PhD Candidate | Climate Dynamics, Geometric Deep Learning & Earth System Science**  
 *Department of Geography, University of Florida*  
 
 [Email](mailto:mostafarezaali@ufl.edu) · [Google Scholar](https://scholar.google.com/citations?user=oaA6rLAAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Mostafa-Rezaali) · [LinkedIn](https://www.linkedin.com/in/mostafa-rezaali-3a522a10a) · [ORCID](https://orcid.org/0000-0001-6587-1569)
@@ -7,32 +7,38 @@
 ---
 
 ### About
-I am a doctoral researcher in the Department of Geography at the University of Florida, working at the intersection of climate dynamics, earth system modeling, and artificial intelligence. My research focuses on advancing the detection, characterization, and subseasonal forecasting of extreme weather events—with a primary emphasis on heat wave dynamics and climate variability.
+I am a doctoral researcher in the Department of Geography at the University of Florida specializing in the convergence of physical climate dynamics, subseasonal-to-seasonal (S2S) predictability, and machine learning. My work investigates the physical mechanisms governing extreme hydrometeorological events—specifically heatwave intensification, land-atmosphere feedbacks, and planetary teleconnections—using physics-informed deep learning and spherical geospatial representations.
 
-By combining observational datasets across the atmosphere, hydrosphere, and terrestrial biosphere with machine learning frameworks, I develop physics-informed, data-driven tools to unearth the complex physical mechanisms driving climate extremes. My goal is to bridge classical process-based climate modeling with modern AI techniques to improve predictive capabilities and support climate adaptation strategies.
+My core computational research centers on designing scalable deep learning architectures, including icosahedral mesh Graph Neural Networks (GNNs) and conditional generative modeling frameworks (such as flow matching and variational autoencoders), to overcome the spatial distortion and conservation limits of classical grids. By combining petascale climate reanalyses and operational ensemble forecasts with distributed high-performance computing, I build predictive architectures that enhance extended-range forecasting for climate adaptation and environmental risk management.
 
 ---
 
 ### Key Research Areas
-* **Dynamics of Climate Extremes:** Thermodynamic drivers, land-atmosphere feedbacks, soil moisture-temperature coupling, and atmospheric circulation patterns.
-* **Physics-Informed AI & Machine Learning:** Deep learning architectures (PyTorch, TensorFlow) for pattern recognition, extreme event detection, spatial downscaling, and subseasonal forecasting.
-* **Earth System Analysis:** Diagnostic processing of high-resolution climate reanalysis datasets and ensemble forecasts (ERA5, GEFSv12, ECMWF IFS ENS).
+* **S2S Predictability & Extreme Event Dynamics:** Physical mechanisms of persistent heatwaves, soil moisture–temperature coupling, Rossby wave propagation, and large-scale teleconnection indices governing regional surface extremes.
+* **Geometric & Generative Deep Learning for Earth Systems:** Spherical/icosahedral graph neural networks, conditional flow matching, spatial regime clustering, and probabilistic forecasting architectures designed for spherical Earth geometry.
+* **High-Performance Climate Computing:** Distributed multi-GPU model training, high-throughput pipeline engineering for terabyte-scale reanalysis data (ERA5, GEFSv12, operational S2S archives), and scalable spatial modeling.
 
 ---
 
 ### Core Technical Profile
-* **Programming & Computation:** Python (xarray, PyTorch, scikit-learn, NumPy), MATLAB, R, Bash, NCL
-* **Climate & Geospatial Tools:** netCDF, GRIB, HDF5, GDAL, GeoPandas, Rasterio, CDO, Cartopy
-* **Data Science & HPC:** Large-scale parallel computing (Dask), SLURM cluster scheduling, extreme value statistics, EOF/PCA analysis
+* **Machine Learning & Deep Learning:** PyTorch, PyTorch Geometric, Distributed Data Parallel (DDP), Conditional Flow Matching, Graph Neural Networks (GNNs), CVAEs, Scikit-learn
+* **Climate Diagnostics & Geospatial Analysis:** Xarray, Dask, NetCDF4, Zarr, GDAL, Rasterio, CDO, Cartopy, Google Earth Engine, PRISM, ERA5
+* **HPC & Workflow Infrastructure:** Slurm workload manager, multi-GPU distributed acceleration, Linux/Bash, high-performance parallel file systems
+* **Scientific Languages:** Python, MATLAB, R, Shell
 
 ---
 
 ### Active Research Projects
-* **Heat Wave Dynamics & Predictability:** Investigating physical drivers and land-atmosphere coupling to enhance machine learning-based heat wave forecasts.
-* **Earth System Model–AI Integration:** Constructing hybrid modeling frameworks that embed physical constraints into deep learning algorithms for subseasonal prediction.
-* **Climate Analytics Framework:** Building reproducible, HPC-scalable workflows for processing multi-terabyte ensemble datasets and detecting compounding climate risk.
+* **HeatCast: Spherical Graph Deep Learning for S2S Heatwave Prediction:** Developing an icosahedral mesh graph neural network architecture to capture multiscale atmospheric wave dynamics and produce daily maximum temperature anomaly forecasts across extended subseasonal horizons.
+* **Generative & Flow-Based Modeling for Climate Variability:** Formulating continuous-time generative frameworks (conditional flow matching) to resolve non-linear transition dynamics and tail-risk distributions of compounding extreme weather.
+* **HPC Diagnostic Frameworks for Planetary Teleconnections:** Deploying multi-GPU distributed data pipelines to analyze global teleconnection states, land-surface boundary conditions, and regional extreme heating across decades of reanalysis data.
+
+---
+
+### Honors & Fellowships
+* **NSF LEAP Momentum Fellowship** | Center for Learning the Earth with Artificial Intelligence and Physics (NSF Science and Technology Center)
 
 ---
 
 ### Education
-* **PhD in Geography (Earth System Science)** | University of Florida *(2022 – Present)*
+* **PhD in Geography (Earth System Science & Climate Modeling)** | University of Florida *(2022 – Present)*
