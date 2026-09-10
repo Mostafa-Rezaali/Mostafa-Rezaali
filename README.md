@@ -16,7 +16,7 @@ By combining observational datasets across the atmosphere, hydrosphere, and terr
 ### Key Research Areas
 * **Dynamics of Climate Extremes:** Thermodynamic drivers, land-atmosphere feedbacks, soil moisture-temperature coupling, and atmospheric circulation patterns.
 * **Physics-Informed AI & Machine Learning:** Deep learning architectures (PyTorch, TensorFlow) for pattern recognition, extreme event detection, spatial downscaling, and subseasonal forecasting.
-* **Earth System Analysis:** Diagnostic processing of high-resolution climate reanalysis datasets (ERA5, MERRA-2) and global climate model ensembles (CMIP6).
+* **Earth System Analysis:** Diagnostic processing of high-resolution climate reanalysis datasets and ensemble forecasts (ERA5, GEFSv12, ECMWF IFS ENS).
 
 ---
 
