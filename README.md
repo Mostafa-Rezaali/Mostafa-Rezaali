@@ -1,5 +1,5 @@
 # Mostafa Rezaali
-**PhD Candidate | Climate Dynamics, Geometric Deep Learning & Earth System Science**  
+**PhD | Geography, Climate Sciences**  
 *Department of Geography, University of Florida*  
 
 [Email](mailto:mostafarezaali@ufl.edu) · [Google Scholar](https://scholar.google.com/citations?user=oaA6rLAAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Mostafa-Rezaali) · [LinkedIn](https://www.linkedin.com/in/mostafa-rezaali-3a522a10a) · [ORCID](https://orcid.org/0000-0001-6587-1569)
