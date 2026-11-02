@@ -8,7 +8,7 @@
 ---
 
 ### About
-I do research in the convergence of physical climate dynamics, subseasonal-to-seasonal (S2S) predictability, and machine learning. My work studies the physical mechanisms governing extreme hydrometeorological events—specifically heatwave intensification, land-atmosphere feedbacks, and planetary teleconnections—using physics-informed deep learning and spherical geospatial representations.
+I do research in the convergence of physical climate dynamics, subseasonal-to-seasonal (S2S) predictability, and machine learning. My work studies the physical mechanisms governing extreme hydrometeorological events, specifically heatwave intensification, land-atmosphere feedbacks, and planetary teleconnections using physics-informed deep learning and spherical geospatial representations.
 
 My core computational research centers on designing scalable deep learning architectures, including icosahedral mesh Graph Neural Networks (GNNs) and conditional generative modeling frameworks (such as flow matching and variational autoencoders), to overcome the spatial distortion and conservation limits of classical grids. By combining petascale climate reanalyses and operational ensemble forecasts with distributed high-performance computing, I build predictive architectures that enhance extended-range forecasting for climate adaptation and environmental risk management.
 
