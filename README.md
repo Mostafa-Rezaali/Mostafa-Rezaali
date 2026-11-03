@@ -30,9 +30,9 @@ My core computational research centers on designing scalable deep learning archi
 ---
 
 ### Active Research Projects
-* **HeatCast: Spherical Graph Deep Learning for S2S Heatwave Prediction:** Developing an icosahedral mesh graph neural network architecture to capture multiscale atmospheric wave dynamics and produce daily maximum temperature anomaly forecasts across extended subseasonal horizons.
-* **Generative & Flow-Based Modeling for Climate Variability:** Formulating continuous-time generative frameworks (conditional flow matching) to resolve non-linear transition dynamics and tail-risk distributions of compounding extreme weather.
-* **HPC Diagnostic Frameworks for Planetary Teleconnections:** Deploying multi-GPU distributed data pipelines to analyze global teleconnection states, land-surface boundary conditions, and regional extreme heating across decades of reanalysis data.
+* **HeatCast: Probabilistic Subseasonal Heat Forecasting:** Developing a graph-mesh neural network that combines local surface conditions and global atmospheric information to predict daily maximum-temperature distributions 15–28 days ahead over the contiguous United States, and evaluating its complementary value alongside ECMWF ensemble forecasts.
+* **GEFS Ensemble Forecast Calibration:** Developing ensemble-aware transformer models to correct global temperature and precipitation forecasts across weeks 1–5, with emphasis on probabilistic calibration, forecast reliability, and evaluation against matched baselines.
+* **Heatwave Regimes and Atmospheric Circulation:** Using convolutional autoencoders and spatial clustering to identify recurring U.S. heatwave patterns and examine their relationships with large-scale circulation and teleconnections.
 
 ---
 
