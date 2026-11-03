@@ -43,4 +43,4 @@ My core computational research centers on designing scalable deep learning archi
 ---
 
 ### Education
-* **PhD in Geography (Earth System Science & Climate Modeling)** | University of Florida *(2022 – 2026)*
+* **PhD in Geography (Climate sciences)** | University of Florida *(2022 – 2026)*
